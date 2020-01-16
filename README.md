@@ -11,7 +11,7 @@
 
 KoolReport is an intuitive and flexible Open Source PHP Reporting Framework for faster and easier data report delivery.
 
-KoolReport can work with any MVC Frameworks such as Laravel, CodeIgniter or Yii2 to provide reporting capability
+KoolReport can work with any MVC Frameworks such as Laravel, CodeIgniter or Yii2 to provide reporting capability.
 
 # GUIDE
 
@@ -53,3 +53,5 @@ You may find the `report.php` view with following content:
 ```
 http://localhost/yii2-example/web/index.php?r=site%2report
 ```
+
+## Happy Reporting!
