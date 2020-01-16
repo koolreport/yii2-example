@@ -54,4 +54,8 @@ You may find the `report.php` view with following content:
 http://localhost/yii2-example/web/index.php?r=site%2report
 ```
 
+# Result
+
+![](https://www.koolreport.com/assets/images/editor/c4/image5e202dbd87512.png)
+
 __Happy Reporting!__
