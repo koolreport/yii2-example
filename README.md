@@ -54,4 +54,4 @@ You may find the `report.php` view with following content:
 http://localhost/yii2-example/web/index.php?r=site%2report
 ```
 
-## Happy Reporting!
+__Happy Reporting!__
