@@ -20,6 +20,10 @@ class MyReport extends \koolreport\KoolReport
                     "password"=>"koolreport sampledb",
                     "charset"=>"utf8"
                 )
+            ),
+            "assets"=>array(
+                "path"=>"../web/assets",
+                "url"=>"assets"
             )
         );
     }   
